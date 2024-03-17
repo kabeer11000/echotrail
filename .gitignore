@@ -1,0 +1,11 @@
+.ignored
+.credentials
+
+# Ignore all DS_STORE directories recursively
+**.DS_STORE
+
+# Ignore all node_modules directories recursively
+**/node_modules
+# Include the node_modules directory in the root directory
+!/node_modules
+
