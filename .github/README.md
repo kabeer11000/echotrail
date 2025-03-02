@@ -9,4 +9,4 @@ from scans and images, and then simulate them in an auditory space to generate
 custom HRTF functions for users then use clever mathematics to generate 
 continuous HRTF approximations based on user head and location tracking. 
 </pre>
-![Echo Trail Designs](./.github/cover.jpeg)
+![Echo Trail Designs](./cover.jpeg)
